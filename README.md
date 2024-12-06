@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ZAIN UL ABDIN GHANI</h1>
 <h3 align="center">A passionate frontend developer from ISLAMABAD:PAKISTAN</h3>
 
-- 🔭 I’m currently working at [TMR consulting](https://tmrconsult.com/)
+- 🔭 Completed internship  at [TMR consulting](https://tmrconsult.com/)
 
-- 🌱 I’m currently learning **NeXtjs tailwindcss**
+- 🌱 I’m currently learning **NeXtjs python**
 
 - 👯 I’m looking to collaborate on [nextjs](https://github.com/ZAIN-GITUP/NEXT-WEB-APP)
 
