@@ -34,26 +34,29 @@ const zain = {
 <div align="center">
 
 ### Frontend Magic ✨
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
 
 ### Backend & Database 🛠️
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Here's the complete Backend & Database section with MongoDB added!
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
 ### Learning Journey 📚
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+
 </div>
 
+---
 
 ## 🔥 What I'm Up To
 
@@ -61,11 +64,11 @@ Here's the complete Backend & Database section with MongoDB added!
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-- 🔭 **Completed**: Internship at [TMR Consulting](https://tmrconsult.com/)
-- 🌱 **Currently Mastering**:  Reac.js Next.Ts, Python, AI/ML
-- 👯 **Open to Collaborate**: [Next.js Projects](https://github.com/ZAIN-GITUP/NEXT-WEB-APP)
-- 💬 **Ask Me About**: React, Tailwind CSS, Responsive Design
-- 📫 **Reach Out**: zainulabdinghani15@gmail.com
+* 🔭 Completed: Internship at [TMR Consulting](https://tmrconsult.com/)
+* 🌱 Currently Mastering: React.js, Next.js, Python, AI/ML
+* 👯 Open to Collaborate: [Next.js Projects](https://github.com/ZAIN-GITUP/NEXT-WEB-APP)
+* 💬 Ask Me About: React, Tailwind CSS, Responsive Design
+* 📫 Reach Out: [zainulabdinghani15@gmail.com](mailto:zainulabdinghani15@gmail.com)
 
 ---
 
@@ -74,15 +77,12 @@ Here's the complete Backend & Database section with MongoDB added!
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZAIN-GITUP&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZAIN-GITUP&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAIN-GITUP&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
+---
 
-
-### 🌟 My Best Work
+## 🌟 My Best Work
 
 <table align="center">
   <tr>
@@ -90,31 +90,22 @@ Here's the complete Backend & Database section with MongoDB added!
       <h3 align="center">🚀 Next.js Web App</h3>
       <div align="center">  
         <a href="https://github.com/ZAIN-UL-ABDIN-GHANI/ModrenEcommerce" target="_blank">
-        <br>
-        <br>
-        <p><strong>Next.Ts,  Tailwind CSS</strong> - Modern web application with responsive design</p>
+        <p><strong>Next.js, Tailwind CSS</strong> - Modern web application with responsive design.</p>
+        </a>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ REACT WEB APP </h3>
+      <h3 align="center">⚡ React Web App</h3>
       <div align="center">
         <a href="https://github.com/ZAIN-UL-ABDIN-GHANI/Real-Estate-UI" target="_blank">
-    
+        <p><strong>React, JavaScript, Tailwind CSS</strong> - A responsive real estate platform with search filters, listings, and interactive UI.</p>
         </a>
-        <br>
-        <br>
-      
-        <p><strong>React, JavaScript, CSS</strong> - 
-
-Modern real estate platform built with React jsx and Tailwind CSS featuring property listings, advanced search filters, and responsive design.
-Users can browse properties, apply location/price filters, and view detailed property information with interactive maps.</p>
       </div>
     </td>
   </tr>
-
 </table>
 
-
+---
 
 ## 🌐 Let's Connect
 
@@ -125,28 +116,31 @@ Users can browse properties, apply location/price filters, and view detailed pro
   <a href="mailto:zainulabdinghani15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/ZAIN-GITHUP">
+  <a href="https://github.com/ZAIN-GITUP">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
+---
 
 ## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-python
+```python
 # My Learning Journey
 while coding:
     learn_new_technologies()
     build_amazing_projects()
     contribute_to_open_source()
     help_others_grow()
-    
-# Next Goals: Master AI/ML with Python 🐍
 
+# Next Goal: Master AI/ML with Python 🐍
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
 
 ## 📈 Activity Graph
 
@@ -154,14 +148,13 @@ while coding:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAIN-GITUP&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-
+---
 
 ## 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=white&animation=twinkling" />
