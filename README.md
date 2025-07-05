@@ -83,7 +83,13 @@ const zain = {
 
 ---
 
+## 🏆 GitHub Achievements
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZAIN-UL-ABDIN-GHANI&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
 
 ## 🎨 Featured Projects
 
@@ -107,8 +113,8 @@ const zain = {
           <a href="https://github.com/ZAIN-UL-ABDIN-GHANI/ModrenEcommerce" target="_blank">
             <img src="https://img.shields.io/badge/Code-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="#" target="_blank">
-            <img src="https://ourecommerceweb.vercel.app/"/>
+          <a href="https://ourecommerceweb.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
           </a>
         </p>
         <p><strong>Next.js, Tailwind CSS</strong> - Modern web application with responsive design</p>
@@ -126,8 +132,8 @@ const zain = {
           <a href="https://github.com/ZAIN-UL-ABDIN-GHANI/Real-Estate-UI" target="_blank">
             <img src="https://img.shields.io/badge/Code-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="#" target="_blank">
-            <img src="https://real-estate-ui-gilt.vercel.app/"/>
+          <a href="https://real-estate-ui-gilt.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
           </a>
         </p>
         <p><strong>React, JavaScript, CSS</strong> - Modern real estate platform built with React jsx and Tailwind CSS featuring property listings, advanced search filters, and responsive design. Users can browse properties, apply location/price filters, and view detailed property information with interactive maps.</p>
