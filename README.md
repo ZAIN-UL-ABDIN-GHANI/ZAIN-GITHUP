@@ -103,9 +103,7 @@ const developer = {
     <td width="50%">
       <h3 align="center">🛍️ Modern E-commerce Platform</h3>
       <div align="center">  
-        <a href="https://ourecommerceweb.vercel.app/" target="_blank">
-          <img src="https://via.placeholder.com/400x250/0D1117/00D9FF?text=Modern+E-commerce+Platform" alt="E-commerce Platform" />
-        </a>
+     
         <br><br>
         <p>
           <a href="https://github.com/ZAIN-UL-ABDIN-GHANI/ModrenEcommerce" target="_blank">
@@ -122,9 +120,7 @@ const developer = {
     <td width="50%">
       <h3 align="center">🏠 Real Estate Platform</h3>
       <div align="center">
-        <a href="https://real-estate-ui-gilt.vercel.app/" target="_blank">
-          <img src="https://via.placeholder.com/400x250/0D1117/58A6FF?text=Real+Estate+Platform" alt="Real Estate Platform" />
-        </a>
+      
         <br><br>
         <p>
           <a href="https://github.com/ZAIN-UL-ABDIN-GHANI/Real-Estate-UI" target="_blank">
