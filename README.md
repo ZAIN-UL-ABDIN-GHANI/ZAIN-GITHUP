@@ -96,6 +96,7 @@ const developer = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 </div>
 
+
 ### 🌟 Highlighted Work
 
 <table align="center">
@@ -103,7 +104,6 @@ const developer = {
     <td width="50%">
       <h3 align="center">🛍️ Modern E-commerce Platform</h3>
       <div align="center">  
-     
         <br><br>
         <p>
           <a href="https://github.com/ZAIN-UL-ABDIN-GHANI/ModrenEcommerce" target="_blank">
@@ -120,7 +120,6 @@ const developer = {
     <td width="50%">
       <h3 align="center">🏠 Real Estate Platform</h3>
       <div align="center">
-      
         <br><br>
         <p>
           <a href="https://github.com/ZAIN-UL-ABDIN-GHANI/Real-Estate-UI" target="_blank">
