@@ -86,8 +86,9 @@ const developer = {
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZAIN-UL-ABDIN-GHANI&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZAIN-UL-ABDIN-GHANI&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
