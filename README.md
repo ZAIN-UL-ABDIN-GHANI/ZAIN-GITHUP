@@ -25,13 +25,13 @@
 const zain = {
   name        : "Zain Ul Abdin Ghani",
   location    : "Islamabad, Pakistan 🇵🇰",
-  identity    : ["MERN Stack Engineer", "Agentic AI Enthusiast"],
+  identity    : ["Agentic AI Enthusiast" ,"MERN Stack Engineer",],
   
   stack: {
-    fullStack : ["MongoDB", "Express.js", "React", "Node.js", "Next.js"],
+    fullStack : ["MongoDB", "Express.js", "React", "Node.js", "],
     agenticAI : ["LangChain", "LangGraph", "Python", "Vector Databases"],
-    styling   : ["Tailwind CSS", "Sass", "Styled Components"],
-    tools     : ["TypeScript", "Redux", "Git"],
+    styling   : ["Tailwind CSS"],
+    tools     : [ "Redux", "Git"],
   },
 
   currentlyLearning : "Advanced Agentic AI — multi-agent orchestration & RAG pipelines",
@@ -51,8 +51,7 @@ const zain = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=43853D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
