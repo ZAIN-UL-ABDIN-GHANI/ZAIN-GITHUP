@@ -75,10 +75,10 @@ const zain = {
       <code>Summer 2025 · 4 months</code><br/>
       <strong>Web Developer Intern</strong><br/><br/>
       <ul>
-        <li>Built production-grade features with the <strong>MERN stack</strong></li>
-        <li>Developed intelligent web apps integrating <strong>Agentic AI</strong> workflows</li>
-        <li>Worked with <strong>LangChain & LangGraph</strong> for agent orchestration</li>
-        <li>Implemented <strong>RAG pipelines</strong> using Vector Databases</li>
+   <li>Built production-grade web applications using the <strong>MERN Stack</strong></li>
+<li>Developed responsive frontend interfaces with <strong>React.js</strong></li>
+<li>Created scalable backend APIs using <strong>Node.js</strong> and <strong>Express.js</strong></li>
+<li>Managed application data and database operations with <strong>MongoDB</strong></li>
       </ul>
     </td>
     <td align="left" width="50%">
@@ -102,10 +102,10 @@ const zain = {
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Agent Web App</h3>
+      <h3 align="center">💻 MERN Stack Web App</h3>
       <div align="center">
-        <p><em>Agentic AI · LangChain · LangGraph · Python</em></p>
-        <p>A fully autonomous AI agent web application built with <strong>LangGraph</strong> for multi-step reasoning and task execution. Features intelligent tool-use, memory management, and a sleek interface to interact with the agent in real-time.</p>
+        <p><em>MongoDB · Express.js · React.js · Node.js</em></p>
+        <p>A full-stack MERN web application with a responsive frontend, secure backend APIs, database integration, and real-time user interaction. Built with scalable architecture and optimized performance for production-level deployment.</p>
         <br/>
         <a href="https://github.com/ZAIN-UL-ABDIN-GHANI/Agentweb">
           <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
@@ -163,7 +163,7 @@ const zain = {
 class AgenticEngineer:
     def __init__(self):
         self.name        = "Zain Ul Abdin Ghani"
-        self.stack       = ["MERN", "LangChain", "LangGraph", "Vector DBs"]
+        self.stack       = ["Agentic ai" ,"MERN" ,"LangChain", "LangGraph", "Vector DBs"]
         self.superpower  = "Building systems that reason, plan & act autonomously"
         self.principles  = [
             "Agents > scripts — give AI the ability to think",
