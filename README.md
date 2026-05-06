@@ -142,19 +142,33 @@ const zain = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ZAIN-UL-ABDIN-GHANI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=00d9ff&title_color=00d9ff" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAIN-UL-ABDIN-GHANI&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff" />
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZAIN-UL-ABDIN-GHANI&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+
+  <!-- GitHub Stats -->
+  <img height="175em"
+    src="https://github-readme-stats.vercel.app/api?username=zain-githup&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <!-- Top Languages -->
+  <img height="175em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-githup&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
+<br/>
+
+<!-- GitHub Streak -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAIN-UL-ABDIN-GHANI&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=zain-githup&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 </div>
 
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zain-githup&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 ---
 
 ## 🧬 The Agent's Mindset
