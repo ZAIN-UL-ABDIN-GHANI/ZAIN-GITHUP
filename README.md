@@ -142,32 +142,30 @@ const zain = {
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-  <!-- GitHub Stats -->
   <img height="175em"
-    src="https://github-readme-stats.vercel.app/api?username=zain-githup&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    src="https://github-readme-stats.vercel.app/api?username=zain-ul-abdin-ghani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-  <!-- Top Languages -->
   <img height="175em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-githup&layout=compact&theme=tokyonight&hide_border=true" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abdin-ghani&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <br/>
 
-<!-- GitHub Streak -->
+## 🔥 GitHub Streak
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zain-githup&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+  <img src="https://streak-stats.demolab.com?user=zain-ul-abdin-ghani&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
+## 📈 Activity Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zain-githup&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zain-ul-abdin-ghani&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 ---
 
