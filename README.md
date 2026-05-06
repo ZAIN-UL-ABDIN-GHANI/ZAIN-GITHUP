@@ -144,11 +144,7 @@ const zain = {
 
 <div align="center">
 
-  <img height="175em"
-    src="https://github-readme-stats.vercel.app/api?username=zain-ul-abdin-ghani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img height="175em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abdin-ghani&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://ghchart.rshah.org/zain-ul-abdin-ghani" />
 
 </div>
 
