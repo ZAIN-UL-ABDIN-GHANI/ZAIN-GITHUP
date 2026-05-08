@@ -153,7 +153,9 @@ const zain = {
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zain-ul-abdin-ghani&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=zain-ul-abdin-ghani&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  </a>
 </div>
 
 <br/>
